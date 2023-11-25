@@ -16,6 +16,12 @@ python main.py
 ghc main.hs && ./main
 ```
 
+##### Rust
+
+```console
+rustc main.rs && ./main
+```
+
 ### Details
 
 The format of the input is presented in `input.txt`. It will be a list of
