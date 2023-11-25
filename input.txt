@@ -1,0 +1,9 @@
+Excavation -> Foundation
+Foundation -> Frame
+Frame -> Walls
+Frame -> Roof
+Walls -> Windows
+Walls -> Doors
+Roof -> Interior
+Windows -> Interior
+Doors -> Interior
